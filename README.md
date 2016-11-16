@@ -1,0 +1,1 @@
+Simple python application for mapping the distance and duration between two location using google api
